@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Delisha Cogdell.
 - 👀 I’m a Software Engineer.
-- 🌱 I have a passion for Full Stack Web Development.
+- 🌱 I have a passion for Frontend Web Dev, but I'm Full Stack capable.
 - 💞️ I’m looking to collaborate on anything related to web dev.
 - 📫 You can reach me at https://www.linkedin.com/in/delisha-cogdell-18b16528/
 - 📫 Or you can reach me at https://twitter.com/CeeDeeLight
