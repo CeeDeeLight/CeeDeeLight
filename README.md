@@ -5,6 +5,7 @@
 - 📫 You can reach me at https://www.linkedin.com/in/delisha-cogdell-18b16528/
 - 📫 Or you can reach me at https://twitter.com/CeeDeeLight
 - 📫 Check out my portfolio: https://delishacogdell.netlify.app/
+- 👀 Check out my fun little site: https://the-encouragement-hub.netlify.app/
 
 <!---
 CeeDeeLight/CeeDeeLight is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
